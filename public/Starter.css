@@ -1,0 +1,103 @@
+ 
+.BodyWala{
+    background-color: red;
+}
+.Poems1{
+    background-color: black;
+    box-sizing:inherit ;
+}
+.Position1{
+    background-color:yellow;
+    box-sizing:inherit;
+    font-size:20px; 
+    max-width: 500px;
+    height: 100px;
+    width: 300px; 
+    display:flex; 
+    flex-direction: column;
+    justify-content: space-content;
+    background-color:rgba(0, 255, 255, 0.76);
+    border-radius: 20px;
+    border: 1px solid rgba(0, 255, 255, 0.76);
+    box-shadow: 0 0 10px 1px rgba(0, 255, 255, 0.76);
+
+}
+.Moment{
+    background-color:yellow;
+    box-sizing:inherit;
+    font-size:20px; 
+    max-width: 500px;
+    height: 100px;
+    width: 300px; 
+    display:flex; 
+    flex-direction: column;
+    justify-content: space-content;
+    background-color:rgba(0, 255, 255, 0.76);
+    border-radius: 20px;
+    border: 1px solid rgba(0, 255, 255, 0.76);
+    box-shadow: 0 0 10px 1px rgba(0, 255, 255, 0.76);
+}
+*,
+*::before,
+*::after{
+    box-sizing: inherit;
+}
+.Sky{
+    background-color:grey;
+    box-sizing: inherit;
+    font-size:20px;
+    max-width: 500px; 
+    height:100px; 
+    width: 300px; 
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    background-color: grey;
+    border: radius 20px;
+    border: 1px solid grey;
+    box-shadow: 0 0 10px 1px grey;
+}
+.Dream{
+    background-color:orange;
+    box-sizing: inherit;
+    font-size:30px; 
+    max-width: 500px; 
+    height:150px; 
+    width:250px;
+    display:flex;
+    flex-direction: column;
+    justify-content:space-between;
+    background-color:yellow;
+    border:rdius  13px; 
+    border: 2px solid yellow;
+    box-shadow: 0 0 10px 1px orange;
+}
+.Position1{
+    font-style:sans-sherrif; 
+    font-family:sans-sherrif;
+}
+body{
+    font:1em/1.6em,Inter,sans-sherrif; 
+    color:#224;
+    background:
+    url()
+    center/cover no-repeat fixed;
+}
+.Poems{
+    background-color:red; 
+    box-sizing:initial;
+    font-size:14px; 
+    max-width:134px; 
+    font-family:sans-sherrif;
+    box-shadow: 0 0 10px 1px blue;
+    justify-content:space-evenly;
+}
+.Poems1{
+    background-color:red; 
+    box-sizing:initial;
+    font-size:14px; 
+    max-width:134px; 
+    font-family:sans-sherrif;
+    box-shadow: 0 0 10px 1px blue;
+    justify-content:space-evenly;
+}
